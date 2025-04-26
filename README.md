@@ -17,7 +17,7 @@ Automates email registration for the [PingNetwork waitlist](https://pingnetwork.
 ## Installation
 1. Clone repo:
    ```bash
-   git clone https://github.com/your-username/pingnetwork-waitlist.git
+   git clone https://github.com/your-username/pingnetwork-wl
    cd pingnetwork-waitlist
    ```
 2. Install dependencies:
